@@ -13,8 +13,7 @@ Q | A
 <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> 
 </a>
 
-<a href="https://www.linkedin.com/in/andrej-marinchenko-0445b7214/" alt="Connect on LinkedIn"> 
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/andrej-marinchenko-0445b7214/" alt="Connect on LinkedIn"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 ## 🚀 Skills 🔝

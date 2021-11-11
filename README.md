@@ -23,6 +23,11 @@ Q | A
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=BEPb"></img>
 
+<!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
+ ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=BEPb&theme=github)
+
+
 **📫 How to Reach me:**
 <p align="left">
 <a href="https://twitter.com/noname85071193" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/twitter.svg" alt="BEPb" height="30" width="30" /></a>
@@ -38,3 +43,8 @@ Q | A
 <p align="left">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=BEPb.BEPb" alt="visitors"/>
 </p>
+
+
+---
+  *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.*
+  

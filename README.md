@@ -1,8 +1,8 @@
 ![](./src/header_.png)
 
-## Hi there 👋, I am Andrej 👨‍💻. Welcome to My Profile!
+# Hi there 👋, I am Andrej 👨‍💻. Welcome to My Profile!
 
-A fullstack developer living in Belarus
+## A fullstack developer living in Belarus machine learning enthusiast and member of the kaggle community. My achievements:
 
 ![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/competition/light)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/dataset/light)

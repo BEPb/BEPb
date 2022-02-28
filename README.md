@@ -2,7 +2,7 @@
 
 # Hi there 👋, I am Andrej 👨‍💻. Welcome to My Profile!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=more+4+years+of+coding+experience+++++;Machine+learning+enthusiast+++;Member+of+the+kaggle+community++++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=More+4+years+of+coding+experience+++++;always+learning+new+things;Machine+learning+enthusiast+++;Member+of+the+kaggle+community++++)](https://git.io/typing-svg)
 
 ### My achievements on kaggle:
 

@@ -2,7 +2,8 @@
 
 # Hi there 👋, I am Andrej 👨‍💻. Welcome to My Profile!
 
-## A fullstack developer living in Belarus machine learning enthusiast and member of the kaggle community. My achievements:
+## A fullstack developer living in Belarus machine learning enthusiast and member of the kaggle community. 
+### My achievements on kaggle:
 
 ![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/competition/light)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/dataset/light)

@@ -2,7 +2,8 @@
 
 # Hi there 👋, I am Andrej 👨‍💻. Welcome to My Profile!
 
-## A fullstack developer living in Belarus machine learning enthusiast and member of the kaggle community. 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=A+fullstack+developer+living+in+Belarus;machine+learning+enthusiast+and+member+of+the+kaggle+community)](https://git.io/typing-svg)
+
 ### My achievements on kaggle:
 
 ![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/competition/light)

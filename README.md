@@ -50,8 +50,7 @@ Property | Data
 
 ## TECH SKILLS
 <img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=BEPb&width=840&height=200&skills=HTML,
-Jupyter-Notebook,TypeScript,JSON,Python,Gulp,SASS,ReactJS,NodeJS,Shell,Flask,Batchfile,JavaScript"
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=BEPb&width=840&height=200&skills=HTML,Jupyter_Notebook,TypeScript,JSON,Python,Gulp,SASS,ReactJS,NodeJS,Shell,Flask,Batchfile,JavaScript"
 />
 
 

@@ -63,6 +63,10 @@ Property | Data
 </p>
 
 
+<h2> Personal statistics: </h2>
+
+![Metrics](https://github.com/BEPb/BEPb/blob/master/github-metrics.svg)
+
 
 ---
   *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.*

@@ -1,4 +1,10 @@
 name: "🏆 Achievements"
+
+on:
+  schedule: # 03:00 JST == 18:00 UTC
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
 category: github
 description: This plugin displays several highlights about what you achieved on GitHub.
 examples:

@@ -1,15 +1,17 @@
 # GitHub Action for generating a contribution graph with a snake eating your contributions.
+# GitHub Action для создания графика вкладов со змеей, пожирающей ваши взносы.
 
 name: Generate Snake
 
 # Controls when the action will run. This action runs every 6 hours.
-
+# Управляет запуском действия. Это действие выполняется каждые 6 часов.
 on:
   schedule:
       # every 6 hours
     - cron: "0 */6 * * *"
 
 # This command allows us to run the Action automatically from the Actions tab.
+# Эта команда позволяет нам автоматически запускать действие с вкладки «Действия».
   workflow_dispatch:
 
 # The sequence of runs in this workflow:

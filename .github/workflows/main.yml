@@ -1,7 +1,7 @@
-name: Metrics
+name: Metrics_main
 on:
   # Schedule updates (each hour)
-  schedule: [{cron: "0 * * * *"}]
+  schedule: # 03:00 JST == 18:00 UTC
   # Lines below let you run workflow manually and on each commit (optional)
   workflow_dispatch:
   push: {branches: ["master", "main"]}

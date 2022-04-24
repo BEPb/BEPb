@@ -1,6 +1,6 @@
-name: Metrics
+name: Metrics_metrics
 on:
-  schedule: 
+  schedule: # 03:00 JST == 18:00 UTC
     - cron: "0 18 * * *"
   workflow_dispatch: # enabled
 

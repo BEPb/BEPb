@@ -19,7 +19,7 @@ jobs:
           config_display: large
           commits_authoring: BEPb
           config_padding: 0, 8 + 2%
-          config_timezone: Europe/Minsk
+          config_timezone: Europe/Belarus
           plugin_habits: yes
           plugin_habits_facts: yes     
           plugin_habits_charts: yes     

@@ -16,7 +16,7 @@ jobs:
           committer_branch: metrics
           template: classic
           commits_authoring: BEPb
-          config_timezone: Europe/Minsk
+          config_timezone: Europe/Belarus
           plugin_lines: yes
           plugin_traffic: yes
           plugin_activity: yes

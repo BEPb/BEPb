@@ -11,7 +11,7 @@ on:
 # Эта команда позволяет нам автоматически запускать действие с вкладки «Действия».
   workflow_dispatch:
 
-# The sequence of runs in this workflow:
+# Последовательность прогонов в этом рабочем процессе:
 jobs:
   # This workflow contains a single job called "build"
   build:

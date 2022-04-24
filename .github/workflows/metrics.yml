@@ -1,0 +1,24 @@
+name: Metrics
+on:
+  schedule: 
+    - cron: "0 18 * * *"
+  workflow_dispatch: # enabled
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@master
+        with:
+
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: metrics
+          template: classic
+          commits_authoring: BEPb
+          config_timezone: Europe/Minsk
+          plugin_lines: yes
+          plugin_traffic: yes
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_timestamps: yes

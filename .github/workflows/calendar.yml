@@ -23,10 +23,8 @@ jobs:
     steps:
 
     # Проверяет репозиторий в $GITHUB_WORKSHOP, чтобы ваша работа могла получить к нему доступ
-      - uses: actions/checkout@v2
-
-    # параметры календаря
       - uses: lowlighter/metrics@latest
+
       with:
         filename: metrics.plugin.calendar.svg
         token: ${{ secrets.METRICS_TOKEN }}

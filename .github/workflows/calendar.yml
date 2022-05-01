@@ -1,7 +1,7 @@
 # GitHub Action для создания календаря
 
 # имя проекта
-name: Current year calendar
+name: Full history calendar
 
 
 # Управляет запуском действия. Это действие выполняется каждые 6 часов.
@@ -21,21 +21,11 @@ jobs:
 
     # Шаги представляют собой последовательность задач, которые будут выполняться как часть задания.
     steps:
-
-    # Проверяет репозиторий в $GITHUB_WORKSHOP, чтобы ваша работа могла получить к нему доступ
+      - uses: actions/checkout@v2
       - uses: lowlighter/metrics@latest
-
-      with:
-        filename: metrics.plugin.calendar.svg
-        token: ${{ secrets.METRICS_TOKEN }}
-        base: ""
-        plugin_calendar: yes
-
-          - name: Full history calendar
-            uses: lowlighter/metrics@latest
-            with:
-              filename: metrics.plugin.calendar.full.svg
-              token: ${{ secrets.METRICS_TOKEN }}
-              base: ""
-              plugin_calendar: yes
-              plugin_calendar_limit: 0
+        with:
+          filename: metrics.plugin.calendar.full.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_calendar: yes
+          plugin_calendar_limit: 0

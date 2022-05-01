@@ -66,10 +66,10 @@ Property | Data
 Would you ike to meet me?
 
 If you want to contribute to any of my repositories, feel free to submit PRs, issues and email me. Pick a slot if you'd like to meet me and chat about proposals and ideas - but make sure to describe the agenda
-  
+
+[MIT](LICENSE.txt)
+
 #### Thanks for visiting :heart:
-  
-  </div>
 
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/BEPb/count.svg" />
@@ -77,15 +77,10 @@ If you want to contribute to any of my repositories, feel free to submit PRs, is
 
 <div align="center">
 
-<summary>:trophy: Github Profile Trophy</summary>
 
+<summary>:trophy: Github Profile Trophy</summary>
+</div>
 
 <p align="center"> 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BEPb" alt="BEPb" /></a>
  </p>
-
-
-
-
-
-

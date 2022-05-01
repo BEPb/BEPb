@@ -22,7 +22,7 @@ jobs:
     # Шаги представляют собой последовательность задач, которые будут выполняться как часть задания.
     steps:
       - uses: actions/checkout@v2
-      - uses: BEPb/metrics@latest
+      - uses: BEPb/calendar@latest
         id: snake-gif
         with:
           filename: metrics.plugin.calendar.full.svg

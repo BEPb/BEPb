@@ -49,6 +49,7 @@ Property | Data
 ![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
 
 
+<a href="https://skyline.github.com/BEPb/2022"><img src="./assets/2022.gif" alt="" width="720" height="auto" /></a>
 
 **📫 How to Reach me:**
 <p align="left">

@@ -53,7 +53,7 @@ Property | Data
 
 
 
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=BEPb&skills=JavaScript,Jupyter Notebook,PHP,Shell,Python,Java,C,HTML,other" width="auto%"/>
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=BEPb&skills=JavaScript,Jupyter Notebook,PHP,Shell,Python,Java,C,HTML" width="auto%"/>
 
 
 **📫 How to Reach me:**

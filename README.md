@@ -52,7 +52,9 @@ Property | Data
 <a href="https://skyline.github.com/BEPb/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
 
 
+
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=BEPb&skills=JavaScript,Jupyter Notebook,PHP,Shell,Python,Java,C,HTML,other" width="auto%"/>
+
 
 **📫 How to Reach me:**
 <p align="left">

@@ -33,7 +33,7 @@ jobs:
           plugin_achievements_display: detailed  # детальное описание фишек достижений
 
           plugin_calendar: yes  # отображает активность по годам от текущего и далее
-          plugin_calendar_limit: 10 # отображает активность за столько лет
+          plugin_calendar_limit: 11 # отображает активность за столько лет
 
           plugin_habits: yes  # активность за сутки и неделю
           plugin_habits_facts: yes  # отображает анализ вашей активность за неделю

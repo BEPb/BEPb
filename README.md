@@ -95,3 +95,5 @@ counting of visitors to this page in this section started from May 8, 2022
 <p align="center"> 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BEPb" alt="BEPb" /></a>
  </p>
+
+<img src="/github-metrics.svg" alt="Metrics" width="100%">

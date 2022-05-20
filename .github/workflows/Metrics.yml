@@ -16,11 +16,14 @@ jobs:
           config_timezone: Belarus/Minsk
           committer_message: "chore: update metrics"
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, repositories, metadata  # базовый контент (информация о пользователе)
           plugin_introduction: yes
 #          plugin_sponsors: yes
           plugin_isocalendar: yes
           plugin_languages: yes
           plugin_achievements: yes
-          plugin_achievements_threshold: B
+          plugin_achievements_threshold: X  # (покажет фишки достижений которые еще не разблокированы)
+          plugin_achievements_display: detailed  # детальное описание фишек достижений
+          plugin_calendar: yes  # отображает активность по годам от текущего и далее
+          plugin_calendar_limit: 10 # отображает активность за столько лет
           plugin_habits: yes

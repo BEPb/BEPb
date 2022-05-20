@@ -13,7 +13,8 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: BEPb
-          config_timezone: Belarus/Minsk
+          config_timezone: Europe/Minsk
+          config_display: columns  # отображать информацию по колонкам
           committer_message: "chore: update metrics"
           template: classic
           base: header, activity, community, repositories, metadata  # базовый контент (информация о пользователе)

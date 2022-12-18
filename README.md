@@ -42,8 +42,7 @@
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-
-![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=BEPb&hide_border=true&theme=redical)
+[![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BEPb&theme=dracula)](https://github.com/BEPb/github-readme-activity-graph)
 
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|

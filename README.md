@@ -94,6 +94,13 @@ width="30%">
 
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
 
+<p align="center"> 
+
+<img src="./src/ibm_badges_credly.png" alt="ibm" width="100%">
+
+</p>
+
+
 
 #### Thanks for visiting :heart:
 

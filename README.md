@@ -82,50 +82,18 @@
 
 
 
-   <!--Front End-->
+   <!--machine-learning-->
 ```mermaid
 graph TD;
-    Front-End-->HTML5;
-    Front-End-->CSS3;
-    Front-End-->JavaScript;
-    Front-End-->Angular;
-    Front-End-->React;
-    Front-End-->XML;
-    Front-End-->JSON;
-    Front-End-->Vue;
-    Front-End-->TypeScript;
-    Front-End-->JQuery;
+    machine-learning-->Data;
+    machine-learning-->Algorithms;
+    machine-learning-->Statistical-Models;
+    machine-learning-->Feature-Engineering;
+    machine-learning-->Evaluation-Metrics;
+    machine-learning-->Deployment;
    ```
    
- <!--Coordenadas de Rio Preto - My Home-->
-  
- ```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1,
-      "properties": {
-        "ID": 0
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-              [-78,-11.9],
-              [-76.9,-11.9],
-              [-76.9,-11.9],
-              [-78,-11.9],
-              [-78,-11.9]
-          ]
-        ]
-      }
-    }
-  ]
-}
-```
-
+ 
 
 
 <div align="center">
@@ -142,6 +110,52 @@ width="30%">
 
 
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
+
+
+
+
+
+
+<!--Coordenadas de Belarus - My Home-->
+  
+ ```geojson
+{
+ "type": "FeatureCollection",
+ "features": [
+   {
+     "type": "Feature",
+     "id": 1,
+     "properties": {
+       "ID": 0
+     },
+     "geometry": {
+       "type": "Polygon",
+       "coordinates": [
+         [
+             [-78,-11.9],
+             [-76.9,-11.9],
+             [-76.9,-11.9],
+             [-78,-11.9],
+             [-78,-11.9]
+         ]
+       ]
+     }
+   }
+ ]
+}
+
+```
+
+
+
+
+
+
+
+
+
+
+
 
 <p align="center"> 
 

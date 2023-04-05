@@ -79,6 +79,55 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BEPb" alt="BEPb" /></a>
 </p>
 
+
+
+
+   <!--Front End-->
+```mermaid
+graph TD;
+    Front-End-->HTML5;
+    Front-End-->CSS3;
+    Front-End-->JavaScript;
+    Front-End-->Angular;
+    Front-End-->React;
+    Front-End-->XML;
+    Front-End-->JSON;
+    Front-End-->Vue;
+    Front-End-->TypeScript;
+    Front-End-->JQuery;
+   ```
+   
+ <!--Coordenadas de Rio Preto - My Home-->
+  
+ ```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "ID": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+              [-78,-11.9],
+              [-76.9,-11.9],
+              [-76.9,-11.9],
+              [-78,-11.9],
+              [-78,-11.9]
+          ]
+        ]
+      }
+    }
+  ]
+}
+```
+
+
+
 <div align="center">
 <summary>Trophy: Hackerrank Profile Trophy</summary>
 </div>

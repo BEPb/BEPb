@@ -12,8 +12,8 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.PERSONAL_TOKEN }}
-          user: BEPb
-          config_timezone: Europe/Minsk
+          user: jobcher
+          config_timezone: Asia/Shanghai
 #          config_display: columns  # отображать информацию по колонкам
           committer_message: "chore: update metrics"
           template: classic

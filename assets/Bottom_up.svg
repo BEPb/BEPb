@@ -21,10 +21,10 @@
     </defs>
 
                     <path d="" fill="url(#linear)" opacity="0.4" >
-    <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcmod="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="0s" values="M0 0L 0 120Q 213.5 160 427 130T 854 155L 854 0 Z;M0 0L 0 145Q 213.5 160 427 140T 854 130L 854 0 Z;M0 0L 0 165Q 213.5 135 427 165T 854 130L 854 0 Z;M0 0L 0 120Q 213.5 160 427 130T 854 155L 854 0 Z"></animate>
+    <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcmod="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="0s" values="M0 0L 0 120Q 213.5 160 427 130T 1024 155L 1024 0 Z;M0 0L 0 145Q 213.5 160 427 140T 1024 130L 1024 0 Z;M0 0L 0 165Q 213.5 135 427 165T 1024 130L 1024 0 Z;M0 0L 0 120Q 213.5 160 427 130T 1024 155L 1024 0 Z"></animate>
 </path>
 <path d="" fill="url(#linear)" opacity="0.4" >
-    <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcmod="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="-10s" values="M0 0L 0 135Q 213.5 180 427 150T 854 160L 854 0 Z;M0 0L 0 150Q 213.5 120 427 120T 854 140L 854 0 Z;M0 0L 0 145Q 213.5 125 427 150T 854 165L 854 0 Z;M0 0L 0 135Q 213.5 180 427 150T 854 160L 854 0 Z"></animate>
+    <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcmod="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="-10s" values="M0 0L 0 135Q 213.5 180 427 150T 1024 160L 1024 0 Z;M0 0L 0 150Q 213.5 120 427 120T 1024 140L 1024 0 Z;M0 0L 0 145Q 213.5 125 427 150T 1024 165L 1024 0 Z;M0 0L 0 135Q 213.5 180 427 150T 1024 160L 1024 0 Z"></animate>
 </path>
     </g>
 

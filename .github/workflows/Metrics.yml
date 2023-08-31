@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.PERSONAL_TOKEN }}
           user: BEPb
           config_timezone: Europe/Minsk
 #          config_display: columns  # отображать информацию по колонкам

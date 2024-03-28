@@ -71,6 +71,11 @@
 <!--  2d history skills -->
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=BEPb&show-other-skills=true" width="auto"></img>
 
+
+<p align="center">
+  <img width="640" height="320" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=BEPb" alt="Coders Rank Skills Chart" />
+</p>
+
 **📫 How to Reach me:**
 <p align="left">
 <a href="https://twitter.com/noname85071193" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/twitter.svg" alt="BEPb" height="30" width="30" /></a>

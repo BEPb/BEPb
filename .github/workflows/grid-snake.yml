@@ -1,102 +1,44 @@
-## GitHub Action for generating a contribution graph with a snake eating your contributions.
-## GitHub Action для создания графика вкладов со змеей, пожирающей ваши взносы.
-
 name: generate animation
 
 on:
-  # run automatically every 12 hours
+  # run automatically every 24 hours
   schedule:
-    - cron: "0 */12 * * *"
-
+    - cron: "0 */24 * * *" 
+  
   # allows to manually run the job at any time
   workflow_dispatch:
-
+  
   # run on every push on the master branch
   push:
     branches:
-    - main
-
-
+    - master
+    
+  
 
 jobs:
   generate:
+    permissions: 
+      contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 10
-
+    timeout-minutes: 5
+    
     steps:
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-      - name: Generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v2
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-#            dist/github-contribution-grid-snake.svg
-#            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          
+          
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
-      - name: Push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v2.6.0
+      - name: push github-contribution-grid-snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-#name: Generate Snake
-#
-## Controls when the action will run. This action runs every 6 hours.
-## Управляет запуском действия. Это действие выполняется каждые 6 часов.
-#on:
-#  schedule:
-#      # every 6 hours
-#    - cron: "0 */6 * * *"
-#
-## This command allows us to run the Action automatically from the Actions tab.
-## Эта команда позволяет нам автоматически запускать действие с вкладки «Действия».
-#  workflow_dispatch:
-#
-## The sequence of runs in this workflow:
-## Последовательность прогонов в этом рабочем процессе:
-#jobs:
-#  # This workflow contains a single job called "build"
-#  build:
-#    # The type of runner that the job will run on
-#    runs-on: ubuntu-latest
-#    timeout-minutes: 10
-#    # Steps represent a sequence of tasks that will be executed as part of the job
-#    steps:
-#
-#    # Checks repo under $GITHUB_WORKSHOP, so your job can access it
-##      - uses: actions/checkout@v2
-#      - uses: Platane/snk@aebc3a92857730857d5a96010a3538f16bbec662  # v3.0.0
-#
-#    # Generates the snake
-#      - uses: Platane/snk@aebc3a92857730857d5a96010a3538f16bbec662  # v3.0.0
-#        id: snake-gif
-#        with:
-#          github_user_name: BEPb
-#          # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
-#          gif_out_path: dist/github-contribution-grid-snake.gif
-#          svg_out_path: dist/github-contribution-grid-snake.svg
-#
-#     # show the status of the build. Makes it easier for debugging (if there's any issues).
-#      - run: git status
-#
-#      # Push the changes
-#      - name: Push changes
-#        uses: crazy-max/ghaction-github-pages@db4476a01402e1a7ce05f41832040eef16d14925
-#        with:
-#          github_token: ${{ secrets.GITHUB_TOKEN }}
-#          branch: master
-#          force: true
-#
-#      - uses: crazy-max/ghaction-github-pages@db4476a01402e1a7ce05f41832040eef16d14925
-#        with:
-#          # the output branch we mentioned above
-#          target_branch: output
-#          build_dir: dist
-#        env:
-#          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

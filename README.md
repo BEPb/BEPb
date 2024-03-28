@@ -69,12 +69,9 @@
 
 
 <!--  2d history skills -->
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=BEPb&show-other-skills=true" width="auto"></img>
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=BEPb&show-other-skills=true"></img>
 
-
-<p align="center">
-  <img width="640" height="320" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=BEPb" alt="Coders Rank Skills Chart" />
-</p>
+[//]: # (<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=BEPb&show-other-skills=true" width="auto"></img>)
 
 **📫 How to Reach me:**
 <p align="left">

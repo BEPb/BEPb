@@ -43,15 +43,7 @@
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
 <!--  -->
-![BEPb's github activity graph](https://github.com/BEPb/BEPb/github-snake-dark.svg)
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
+![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-snake-dark.svg)
 
 <!--   stats + languages -->
 ![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)

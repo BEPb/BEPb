@@ -1,4 +1,4 @@
-name: generate animation
+name: grid snake
 
 on:
   # run automatically every 24 hours

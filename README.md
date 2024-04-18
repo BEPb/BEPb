@@ -154,9 +154,10 @@ width="30%">
 ```
 
 
-
-
-
+![badges_37-46.png](src%2Fbadges_37-46.png)
+![badges_25-36.png](src%2Fbadges_25-36.png)
+![badges_13-24.png](src%2Fbadges_13-24.png)
+![badges_1-12.png](src%2Fbadges_1-12.png)
 
 <p align="center"> 
 

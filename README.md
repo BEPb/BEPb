@@ -159,15 +159,6 @@ width="30%">
 ![badges_13-24.png](src%2Fbadges_13-24.png)
 ![badges_1-12.png](src%2Fbadges_1-12.png)
 
-<p align="center"> 
-
-<img src="./src/credly0.png" alt="ibm" width="100%">
-<img src="./src/credly1.png" alt="ibm" width="100%">
-<img src="./src/credly2.png" alt="ibm" width="100%">
-
-</p>
-
-
 
 #### Thanks for visiting :heart:
 

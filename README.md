@@ -6,7 +6,7 @@
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
     <a href="https://github.com/vinceyanghuan/vinceyanghuan/graphs/contributors"><img src="https://img.shields.io/github/contributors/vinceyanghuan/vinceyanghuan?color=blue"></a>
     <a href="https://github.com/vinceyanghuan/vinceyanghuan/stargazers"><img src="https://img.shields.io/github/stars/vinceyanghuan/vinceyanghuan.svg?logo=github"></a>
-    <a href="https://github.com/vinceyanghuan/vinceyanghuan/network/members"><img src="https://img.shields.io/github/forks/vinceyanghuan/vinceyanghuan.svg?color=blue&logo=github"></a>
+    <a href="https://github.com/vinceyanghuan/vinceyanghuan/network/members"><img src="https://img.shields.io/github/forks/vinceyanghuan/BEPb.svg?color=blue&logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=vinceyanghuan.vinceyanghuan" alt="visitors"/>   
 </p>
 
